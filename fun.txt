@@ -1,6 +1,6 @@
 int add fun(int a){
 
-return a*2;
+return a*3;
 }
 
 add(2);
